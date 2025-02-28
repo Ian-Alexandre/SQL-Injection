@@ -118,5 +118,5 @@ Implementar proteções contra SQL Injection no seu servidor FiveM é essencial 
 
 Com essas técnicas, você reduzirá drasticamente o risco de ataques SQL Injection no seu servidor FiveM.
 
-Se precisar de ajuda para implementar isso no seu anti-cheat ou servidor, estou à disposição! 🚀
+É recomendado adicionar estas verificações dentro de um anti-cheat caso o seu seja próprio! 🚀
 
